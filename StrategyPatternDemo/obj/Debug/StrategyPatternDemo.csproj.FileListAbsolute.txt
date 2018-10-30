@@ -1,0 +1,7 @@
+C:\Users\Eradicated Soul\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\StrategyPatternDemo.exe.config
+C:\Users\Eradicated Soul\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\StrategyPatternDemo.exe
+C:\Users\Eradicated Soul\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\StrategyPatternDemo.pdb
+C:\Users\Eradicated Soul\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\StrategyPatternDemo.csprojAssemblyReference.cache
+C:\Users\Eradicated Soul\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\StrategyPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Eradicated Soul\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\StrategyPatternDemo.exe
+C:\Users\Eradicated Soul\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\StrategyPatternDemo.pdb
